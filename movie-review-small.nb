@@ -1,0 +1,7 @@
+Vocabulary fun couple love fast furious shoot fly 
+comedy fun:1 couple:1 love:2
+action fast:1 furious:1 shoot:1
+comedy couple:1 fly:1 fast:1 fun:2
+action furious:1 shoot:2 fun:1
+action fly:1 fast:1 shoot:1 love:1
+Prior-Probabilities comedy:0.4 action:0.4
